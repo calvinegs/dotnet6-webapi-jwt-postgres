@@ -1,1 +1,1 @@
-使用 .NET 6.0 進行 JWT 身份驗證的 ASP.NET Web Api。並使用 Microsoft Identity 框架來存儲使用者和角色等資料
+使用 .NET 6.0 進行 JWT 身份驗證的 ASP.NET Web Api。並使用 Microsoft Identity 框架來存儲使用者和角色等資料。採用 PostgresSQL 當資料儲存資料庫。
